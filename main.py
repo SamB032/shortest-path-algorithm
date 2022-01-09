@@ -245,4 +245,3 @@ def main(win, width):
 	pygame.quit()
 
 main(WIN, WIDTH)
-
