@@ -8,7 +8,7 @@ First program provides a GUI interface that will for any given node, find the sh
 
 Firstly you need to clone this git repo, in the terminal, write:
 ```
-$ git clone https://github.com/EndoEU/shortest-path-algorithm.git
+$ git clone https://github.com/SamB032/shortest-path-algorithm.git
 ```
 Then install the required python packages:
 ```
